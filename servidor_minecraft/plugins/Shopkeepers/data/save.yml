@@ -1,0 +1,60 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyway, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3955
+'2':
+  uniqueId: 4e2c9788-b436-40f9-86a8-9536c01bab77
+  world: Athenia
+  x: 193
+  y: 13
+  z: 409
+  yaw: 20.152153
+  type: admin
+  name: Pablo
+  object:
+    type: chicken
+    baby: false
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: PAPER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"Peluche De Orca","italic":false,"color":"white"}'
+          custom-model-data: 1536
+          custom: H4sIAAAAAAAA/wXBQQ6AIAwEwI0n5KBPJA1ssAkthOr/nclARtaXFtIad8KhDbdbWeOLR1nmrpJwuhhjSSUunz2K0aVzK4EfOV2J/0QAAAA=
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: PAPER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"ZC COIN","italic":false,"color":"aqua"}'
+          custom-model-data: 10007
+          PublicBukkitValues: |-
+            {
+                "mythicmobs:prevent_crafting_with": 1b,
+                "mythicmobs:prevent_repairing_with": 1b,
+                "mythicmobs:prevent_smithing_with": 1b,
+                "mythicmobs:type": "cointoss"
+            }
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: PAPER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"NuciCoin","italic":false,"color":"gold"}'
+          custom-model-data: 10008
+          PublicBukkitValues: |-
+            {
+                "mythicmobs:prevent_crafting_with": 1b,
+                "mythicmobs:prevent_repairing_with": 1b,
+                "mythicmobs:prevent_smithing_with": 1b,
+                "mythicmobs:type": "nucicoin"
+            }
+  snapshots: []

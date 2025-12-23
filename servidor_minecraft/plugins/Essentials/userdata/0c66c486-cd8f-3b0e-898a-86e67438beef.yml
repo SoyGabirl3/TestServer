@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.92.140.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766448721124
+  login: 1766448647978
+money: '296002.36'
+last-account-name: Cherry
+logoutlocation:
+  world: 75adf44e-496b-477a-9ce9-3c081a03e137
+  world-name: world
+  x: 92.27218949343614
+  y: 129.0
+  z: 45.54563064963978
+  yaw: -37.567626953125
+  pitch: 12.5685396194458

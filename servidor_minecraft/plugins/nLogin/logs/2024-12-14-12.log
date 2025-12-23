@@ -1,0 +1,21 @@
+[2024/12/14 21:49:20]: §9          __             _       
+[2024/12/14 21:49:20]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/12/14 21:49:20]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/12/14 21:49:20]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/12/14 21:49:20]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/12/14 21:49:20]: §9                  |___/            
+[2024/12/14 21:49:20]: §9 By: www.nickuc.com - V 10.4.18 DEVELOPMENT
+[2024/12/14 21:49:20]: §9 
+[2024/12/14 21:49:20]: §3[nLogin] [DEBUG] All settings were loaded in 86 ms.
+[2024/12/14 21:49:21]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2024/12/14 21:49:21]: §3[nLogin] [DEBUG] All plugin messages were loaded in 79 ms (languageByClient=false).
+[2024/12/14 21:49:21]: §3[nLogin] [DEBUG] All proxy settings were loaded in 2 ms.
+[2024/12/14 21:49:21]: §3[nLogin] [DEBUG] Loading database...
+[2024/12/14 21:49:21]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/12/14 21:50:58]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Mdinqt', `unique_id` = f1afec0ddcc839178765ef5f0051b637,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$kZ4bPIg7VGvwr2DBUtD9euUajnmpFFDhRAHyt/DfISPS/twL7ECsG', `last_ip` = '45.232.195.194', `creation_date` = 2024-12-14 11:55:52.09, `last_seen` = 2024-12-14 21:50:58.017, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2024/12/14 21:50:58]: [nLogin] The user Mdinqt has successfully logged in.
+[2024/12/14 22:01:33]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Nucico', `unique_id` = ce03fb613ef23ed18980c9e51a35f83b,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$uYKt.IF/8gh5N/bKWXLQduBlsZ8RDcglZVRzSv78lqA1iDr0i1Ypa', `last_ip` = '187.147.135.57', `creation_date` = 2024-12-14 11:57:18.85, `last_seen` = 2024-12-14 22:01:33.952, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 2" (applied to [last_ip, last_seen, settings] columns)
+[2024/12/14 22:01:33]: [nLogin] The user Nucico has successfully logged in.
+[2024/12/14 22:44:55]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Nucico', `unique_id` = ce03fb613ef23ed18980c9e51a35f83b,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$uYKt.IF/8gh5N/bKWXLQduBlsZ8RDcglZVRzSv78lqA1iDr0i1Ypa', `last_ip` = '187.147.135.57', `creation_date` = 2024-12-14 11:57:18.85, `last_seen` = 2024-12-14 22:44:55.222, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 2" (applied to [last_seen, settings] columns)
+[2024/12/14 22:46:17]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Mdinqt', `unique_id` = f1afec0ddcc839178765ef5f0051b637,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$kZ4bPIg7VGvwr2DBUtD9euUajnmpFFDhRAHyt/DfISPS/twL7ECsG', `last_ip` = '45.232.195.194', `creation_date` = 2024-12-14 11:55:52.09, `last_seen` = 2024-12-14 22:46:17.717, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2024/12/14 22:47:09]: [nLogin] Successful plugin core shutdown (took 0.00s)

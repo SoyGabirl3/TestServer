@@ -1,0 +1,15 @@
+"bloquearsell":
+ command: /sell
+ type: ADD_PERMISSION
+ permission-node: bloquear.sell
+ permission-error: "&4No se puede usar este comando"
+"bloquearsellall":
+ command: /sellall
+ type: ADD_PERMISSION
+ permission-node: bloquear.sellall
+ permission-error: "&4No se puede usar este comando"
+"bloquearjobsshop":
+ command: /jobs shop
+ type: ADD_PERMISSION
+ permission-node: bloquear.jobsshop
+ permission-error: "&4No se puede usar este comando"

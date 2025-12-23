@@ -1,0 +1,15 @@
+[2025/12/19 20:55:18]: §9          __             _       
+[2025/12/19 20:55:18]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/12/19 20:55:18]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/12/19 20:55:18]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/12/19 20:55:18]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/12/19 20:55:18]: §9                  |___/            
+[2025/12/19 20:55:18]: §9 By: www.nickuc.com - V 10.4.23
+[2025/12/19 20:55:18]: §9 
+[2025/12/19 20:55:18]: §3[nLogin] [DEBUG] All settings were loaded in 296 ms.
+[2025/12/19 20:55:19]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2025/12/19 20:55:19]: §3[nLogin] [DEBUG] All plugin messages were loaded in 165 ms (languageByClient=false).
+[2025/12/19 20:55:19]: §3[nLogin] [DEBUG] All proxy settings were loaded in 7 ms.
+[2025/12/19 20:55:19]: §3[nLogin] [DEBUG] Loading database...
+[2025/12/19 20:55:20]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/12/19 20:59:07]: [nLogin] Successful plugin core shutdown (took 0.00s)

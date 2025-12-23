@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 179.6.171.120
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733798202685
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733799681062
+  login: 1733795713358
+money: '0.0'
+last-account-name: ZtDany
+lastlocation:
+  world: ce00a286-9b88-490f-8749-ddf3f35c16f3
+  world-name: world
+  x: 174.64153899384618
+  y: 82.17675927506424
+  z: 28.116298394231567
+  yaw: -60.7738037109375
+  pitch: 29.660945892333984
+logoutlocation:
+  world: bbf52a55-7f80-4b96-a7a5-57a8dd99f1b2
+  world-name: Athenia
+  x: 270.9682848960151
+  y: 19.000620694098696
+  z: 416.0984745163063
+  yaw: 82.43310546875
+  pitch: -1.3381872177124023

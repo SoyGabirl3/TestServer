@@ -1,0 +1,43 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.92.140.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1765568154818
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766119157804
+  login: 1766119110009
+  kits:
+    firework: 1734198683900
+    notch: 1734198708882
+    dtools: 1734198718323
+money: '9828742.03'
+last-account-name: Mdinqt
+logoutlocation:
+  world: 75adf44e-496b-477a-9ce9-3c081a03e137
+  world-name: world
+  x: 89.4671250370032
+  y: 129.0
+  z: 34.80964529743105
+  yaw: -118.3355712890625
+  pitch: 24.930540084838867
+lastlocation:
+  world: 75adf44e-496b-477a-9ce9-3c081a03e137
+  world-name: world
+  x: 85.46093559333829
+  y: 134.28253187049106
+  z: 30.55899249593078
+  yaw: -112.9996109008789
+  pitch: 57.46751022338867
+nickname: Mdinqt

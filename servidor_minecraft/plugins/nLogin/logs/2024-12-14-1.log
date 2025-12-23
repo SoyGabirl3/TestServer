@@ -1,0 +1,32 @@
+[2024/12/14 11:54:28]: §9          __             _       
+[2024/12/14 11:54:28]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/12/14 11:54:28]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/12/14 11:54:28]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/12/14 11:54:28]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/12/14 11:54:28]: §9                  |___/            
+[2024/12/14 11:54:28]: §9 By: www.nickuc.com - V 10.4.18 DEVELOPMENT
+[2024/12/14 11:54:28]: §9 
+[2024/12/14 11:54:28]: §3[nLogin] [DEBUG] The config.yml file was created successfully.
+[2024/12/14 11:54:28]: §3[nLogin] [DEBUG] All settings were loaded in 77 ms.
+[2024/12/14 11:54:28]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2024/12/14 11:54:28]: §3[nLogin] [DEBUG] All plugin messages were loaded in 73 ms (languageByClient=false).
+[2024/12/14 11:54:28]: §3[nLogin] [DEBUG] All proxy settings were loaded in 2 ms.
+[2024/12/14 11:54:28]: §3[nLogin] [DEBUG] Loading database...
+[2024/12/14 11:54:28]: [nLogin] Generating RSA keypair... (this may take a while)
+[2024/12/14 11:54:29]: [nLogin] The RSA key pair was successfully generated. Took 0.90s
+[2024/12/14 11:54:29]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/12/14 11:54:29]: [nLogin] Starting the OpeNLogin conversion...
+[2024/12/14 11:54:29]: §e[nLogin] [WARN] Initializing the OpeNLogin conversion
+[2024/12/14 11:54:29]: §e[nLogin] [WARN] Please do not shut down your server.
+[2024/12/14 11:54:29]: [nLogin] OpeNLogin data has been successfully converted.
+[2024/12/14 11:54:29]: [nLogin] No users have been converted ~ 0.10s
+[2024/12/14 11:55:52]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('Mdinqt', f1afec0ddcc839178765ef5f0051b637, null, null, '$2a$10$kZ4bPIg7VGvwr2DBUtD9euUajnmpFFDhRAHyt/DfISPS/twL7ECsG', '45.232.195.194', '2024-12-14 11:55:52.09', '2024-12-14 11:55:52.09', null, null, '{"settings":[{"value":true,"key":"force-invalid-session"}],"version":0}')" (applied to all columns)
+[2024/12/14 11:55:52]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2024/12/14 11:55:52]: [nLogin] The user Mdinqt has successfully registered.
+[2024/12/14 11:55:55]: §3[nLogin] [DEBUG] All settings were loaded in 3 ms.
+[2024/12/14 11:55:55]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2024/12/14 11:55:55]: §3[nLogin] [DEBUG] The file config.yml was migrated to es language.
+[2024/12/14 11:55:55]: §3[nLogin] [DEBUG] All plugin messages were loaded in 5 ms (languageByClient=false).
+[2024/12/14 11:55:55]: §3[nLogin] [DEBUG] All proxy settings were loaded in 0 ms.
+[2024/12/14 11:57:18]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('Nucico', ce03fb613ef23ed18980c9e51a35f83b, null, null, '$2a$10$uYKt.IF/8gh5N/bKWXLQduBlsZ8RDcglZVRzSv78lqA1iDr0i1Ypa', '187.147.135.57', '2024-12-14 11:57:18.85', '2024-12-14 11:57:18.85', null, null, '{"settings":[{"value":true,"key":"force-invalid-session"}],"version":0}')" (applied to all columns)
+[2024/12/14 11:57:18]: [nLogin] The user Nucico has successfully registered.
